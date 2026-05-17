@@ -62,14 +62,15 @@ O evento click no botão processa as contas matemáticas imediatas.
 O evento change no <select> altera dinamicamente os nomes das moedas, troca os arquivos de imagem das bandeiras e refaz o cálculo de conversão automaticamente.
 
 
+
+
+
+
 Tecnologias Utilizadas
 
 HTML5 (Estruturação Semântica)
-
 CSS3 (Flexbox, Efeitos de Transição e Design Responsivo)
-
 JavaScript (ES6+) (Manipulação de DOM, Event Listeners e Intl API)
-
 Google Fonts (Tipografia Roboto)
 
 Previa:
