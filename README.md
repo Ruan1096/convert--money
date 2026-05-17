@@ -1,4 +1,4 @@
-🪙 Convert Money
+Convert Money
 O Convert Money é uma aplicação web responsiva voltada para a conversão de moedas em tempo real. O projeto simula a conversão do Real Brasileiro (R$) para moedas estrangeiras como o Dólar Americano (US$) e o Euro (€), utilizando manipulação dinâmica do DOM e formatação internacionalizada de dados.
 
 
