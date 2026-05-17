@@ -2,7 +2,7 @@
 O Convert Money é uma aplicação web responsiva voltada para a conversão de moedas em tempo real. O projeto simula a conversão do Real Brasileiro (R$) para moedas estrangeiras como o Dólar Americano (US$) e o Euro (€), utilizando manipulação dinâmica do DOM e formatação internacionalizada de dados.
 
 
-🛠️ Descrição Técnica de Cada Parte do Projeto
+Descrição Técnica de Cada Parte do Projeto
 O projeto foi estruturado utilizando a separação limpa de responsabilidades nas três camadas fundamentais do Front-end: Interface (HTML), Estilização (CSS) e Comportamento/Lógica (JavaScript).
 
 
@@ -62,8 +62,8 @@ O evento click no botão processa as contas matemáticas imediatas.
 O evento change no <select> altera dinamicamente os nomes das moedas, troca os arquivos de imagem das bandeiras e refaz o cálculo de conversão automaticamente.
 
 
+Tecnologias Utilizadas
 
-🚀 Tecnologias Utilizadas
 HTML5 (Estruturação Semântica)
 
 CSS3 (Flexbox, Efeitos de Transição e Design Responsivo)
@@ -72,8 +72,5 @@ JavaScript (ES6+) (Manipulação de DOM, Event Listeners e Intl API)
 
 Google Fonts (Tipografia Roboto)
 
-
 Previa:
-
-
 <img width="958" height="416" alt="image" src="https://github.com/user-attachments/assets/2afb2513-416d-43d6-8245-2653fe251b4e" />
