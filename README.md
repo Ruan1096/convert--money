@@ -68,10 +68,22 @@ O evento change no <select> altera dinamicamente os nomes das moedas, troca os a
 
 Tecnologias Utilizadas
 
+
+
 HTML5 (Estruturação Semântica)
+
+
 CSS3 (Flexbox, Efeitos de Transição e Design Responsivo)
+
+
 JavaScript (ES6+) (Manipulação de DOM, Event Listeners e Intl API)
+
+
 Google Fonts (Tipografia Roboto)
+
+
+
+
 
 Previa:
 <img width="958" height="416" alt="image" src="https://github.com/user-attachments/assets/3cc08680-0c0e-4a31-90da-4653193157f0" />
