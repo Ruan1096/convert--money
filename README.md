@@ -3,7 +3,7 @@ O Convert Money é uma aplicação web responsiva voltada para a conversão de m
 
 
 Descrição Técnica de Cada Parte do Projeto\
-O projeto foi estruturado utilizando a separação limpa de responsabilidades nas três camadas fundamentais do Front-end: Interface (HTML), Estilização (CSS) e Comportamento/Lógica (JavaScript).\
+O projeto foi estruturado utilizando a separação limpa de responsabilidades nas três camadas fundamentais do Front-end: Interface (HTML), Estilização (CSS) e Comportamento/Lógica (JavaScript).\/
 
 
 1. Interface Humana e Semântica (index.html)\
