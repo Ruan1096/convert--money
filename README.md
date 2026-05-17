@@ -73,4 +73,5 @@ JavaScript (ES6+) (Manipulação de DOM, Event Listeners e Intl API)
 Google Fonts (Tipografia Roboto)
 
 Previa:
-<img width="958" height="416" alt="image" src="https://github.com/user-attachments/assets/2afb2513-416d-43d6-8245-2653fe251b4e" />
+<img width="958" height="416" alt="image" src= <img width="958" height="416" alt="conversor" src="https://github.com/user-attachments/assets/a8a11b89-de9e-4c05-8a24-f9350a4b3fdd" />
+/>
